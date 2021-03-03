@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+button {
+    width: 150px;
+    top: 20%;
+    border: 3px solid palevioletred;
+    display: inline-block;
+    margin: auto;
+}
